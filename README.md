@@ -4,7 +4,7 @@ A curated list of awesome awesomeness
 
 ---
 
-This is a maintained version of [Awesome-Awesomeness](https://github.com/bayandin/awesome-awesomeness), created because the original owner @bayandin is no longer maintaining the project.
+This is a maintained version of [Awesome-Awesomeness](https://github.com/bayandin/awesome-awesomeness), created because the original owner [@bayandin](https://github.com/bayandin) is no longer maintaining the project.
 
 ---
 
