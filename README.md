@@ -27,7 +27,7 @@ This is a maintained version of [Awesome-Awesomeness](https://github.com/bayandi
 	- [Ansible](https://github.com/jdauphant/awesome-ansible)
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 	- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
-	- [C](https://notabug.org/koz.ross/awesome-c)
+	- [C](https://github.com/oz123/awesome-c)
 	- [C/C++](https://github.com/fffaraz/awesome-cpp)
 	- [CMake](https://github.com/onqtam/awesome-cmake)
 	- Clojure
