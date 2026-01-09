@@ -1,6 +1,17 @@
-# Awesome_Awesomeness
+  <h1 align="center">Awesome_Awesomeness</h1>
+  <p align="center">
+    <a href="https://github.com/0xJuancito/Awesome_Awesomeness/graphs/contributors">
+      <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/0xJuancito/Awesome_Awesomeness">
+    </a>    
+    <a href="http://makeapullrequest.com">
+      <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
+    </a>
+  </p>
 
-A curated list of awesome awesomeness
+  <p align="center">A curated list of awesome awesomeness</p>
+
+</div>
+
 
 ---
 
