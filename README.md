@@ -421,4 +421,25 @@ This is a maintained version of [Awesome-Awesomeness](https://github.com/bayandi
 		- [Ejabberd](https://github.com/shantanu-deshmukh/awesome-ejabberd)
 	- [Typography](https://github.com/Jolg42/awesome-typography)
  - Dev tools
-	- [Pieces](https://pieces.app/) 
+	- [Pieces](https://pieces.app/)
+
+<div align="right">
+    <b><a href="#Contents">↥ back to top</a></b>
+</div>
+
+If this program is helpful for you, please cite:
+
+```bib
+@misc{hao2025awesome,
+      title={Awesome_Awesomeness}, 
+      author={All Awesome_Awesomeness Contributors},
+      year={2025},
+      publisher = {GitHub},
+      journal = {GitHub repository},
+      howpublished = {\url{https://github.com/YuzeHao2023/Awesome_Awesomeness}},
+}
+```
+
+# Star history
+
+[![Stargazers over time](https://starchart.cc/YuzeHao2023/Awesome_Awesomeness.svg)](https://starchart.cc/YuzeHao2023/Awesome_Awesomeness)
