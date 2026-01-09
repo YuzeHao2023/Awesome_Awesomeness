@@ -424,7 +424,7 @@ This is a maintained version of [Awesome-Awesomeness](https://github.com/bayandi
 	- [Pieces](https://pieces.app/)
 
 <div align="right">
-    <b><a href="#Contents">↥ back to top</a></b>
+    <b><a href="![](assert/logo.png)">↥ back to top</a></b>
 </div>
 
 If this program is helpful for you, please cite:
