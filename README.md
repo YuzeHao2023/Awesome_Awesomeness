@@ -1,4 +1,7 @@
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+  
   <h1 align="center">Awesome_Awesomeness</h1>
+
   <p align="center">
     <a href="https://github.com/0xJuancito/Awesome_Awesomeness/graphs/contributors">
       <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/0xJuancito/Awesome_Awesomeness">
@@ -11,6 +14,7 @@
   <p align="center">A curated list of awesome awesomeness</p>
 
 </div>
+
 
 
 ---
