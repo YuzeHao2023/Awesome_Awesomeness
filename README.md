@@ -25,6 +25,8 @@ This is a maintained version of [Awesome-Awesomeness](https://github.com/bayandi
 
 ---
 
+#### Contents
+
 - Programming Languages Package Manager
     - [Package-Manager](https://github.com/damon-kwok/awesome-package-manager)
 
@@ -424,7 +426,7 @@ This is a maintained version of [Awesome-Awesomeness](https://github.com/bayandi
 	- [Pieces](https://pieces.app/)
 
 <div align="right">
-    <b><a href="![](assert/logo.png)">↥ back to top</a></b>
+    <b><a href="#contents">↥ back to top</a></b>
 </div>
 
 If this program is helpful for you, please cite:
